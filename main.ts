@@ -5,7 +5,7 @@
  * @fileoverview This program is a trivia program. 
  * One player enters how many questions they want to quiz player 2 on then inputs the questions and correct answers. 
  * Then the second player takes the quiz and tries to answer all the questions correctly. 
- * Finally it will print a final score at the end.
+ * Finally it will print a final score at the end. 
  */
 
 //creating variables
